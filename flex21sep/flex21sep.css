@@ -1,0 +1,45 @@
+.flex{
+    display: flex;
+    background-color:#ffffba;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.f1,.f2,.f3,.f4{
+    width:300px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);   
+    border-bottom: 1px solid rgba(231, 228, 228, 0.723) ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+}
+
+.f1{
+    margin-top: 40px;
+    border-radius: 60px 60px 0px 0px;   
+}
+
+.f4{
+    margin-bottom: 80px;
+    border-radius: 0px 0px 60px 60px ;
+}
+
+img {
+    border-radius: 32.5px;
+    width: 65px;
+    margin: 20px;
+
+}
+.text {
+    font-size: 15px;
+}
+span{
+    font-size: 13px;
+    color: rgb(179, 179, 179);
+    display: block;
+} 

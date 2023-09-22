@@ -1,0 +1,50 @@
+.felx{
+    display: flex;
+    background-color: rgb(227, 162, 88);
+    flex-direction: row;
+    align-items: stretch;
+
+}
+.f1,.f2,.f3,.f4,.f5,.f6,.f7,.f8,.f9{
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+    width:50px;
+    height: 500px;
+}
+.f1{
+    background-color: green;
+    margin: 10px 0px 10px 10px ;
+}
+.f2{
+    background-color: yellow;
+    margin: 10px 0px 10px ;
+}
+.f3{
+    background-color: purple;
+    margin: 10px 0px 10px ;
+}
+.f4{
+    background-color: gray;
+    margin: 10px 0px 10px ;
+}
+.f5{
+    background-color: blue;
+    margin: 10px 0px 10px ;
+}
+.f6{
+    background-color: orange;
+    margin: 10px 0px 10px ;
+}
+.f7{
+    background-color: pink;
+    margin: 10px 0px 10px ;
+}
+.f8{
+    background-color: red;
+    margin: 10px 0px 10px ;
+}
+.f9{
+    background-color: crimson;
+    margin: 10px 0px 10px 0px;
+}
